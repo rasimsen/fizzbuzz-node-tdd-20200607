@@ -1,0 +1,28 @@
+{
+  "name": "fizzbuzz-node-tdd-20200607",
+  "version": "1.0.0",
+  "description": "The FizzBuzz problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasimsen/fizzbuzz-node-tdd-20200607.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasimsen/fizzbuzz-node-tdd-20200607/issues"
+  },
+  "homepage": "https://github.com/rasimsen/fizzbuzz-node-tdd-20200607#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
